@@ -2,7 +2,7 @@
 
 > Experimental magnetic strategy game built from the ground up:  
 > hardware, interface, lore, and game logic – all integrated into a physical and digital system.
-![Purya Banner](./folder-images/fd64fee6-2907-468b-ad8f-854c6ccf00c8.png)
+![Purya Banner](./folder-images/Copilot_20250803_173623.png)
 ---
 
 ## Description
